@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972648422864",
+    "project_id": "budget-app-69cfd",
+    "storage_bucket": "budget-app-69cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972648422864:android:f630905281008dd9a82dd5",
+        "android_client_info": {
+          "package_name": "dev.ankan.flutter_expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972648422864-t58u3r6nutsmhqth6s1lbobdknk8kb23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClY7ZWAxhMTlMO7QA-WAKT6YnFx4bJNSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972648422864-t58u3r6nutsmhqth6s1lbobdknk8kb23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
